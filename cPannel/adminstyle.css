@@ -1,0 +1,19 @@
+.bg_menu {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #000000;
+	background-color: #33CCFF;
+	background-repeat: repeat;
+	list-style-position: outside;
+	list-style-image: url(../images/done.png);
+}
+.body {
+	background-image: url(images/bg.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
